@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/alejss/template-api-node/issues"
   },
-  "homepage": "https://github.com/alejss/template-api-node#readme"
+  "homepage": "https://github.com/alejss/template-api-node#readme",
+  "devDependencies": {
+    "eslint": "^8.18.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
 }
