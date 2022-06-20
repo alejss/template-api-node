@@ -1,0 +1,25 @@
+{
+  "name": "template-api-node",
+  "version": "0.0.1",
+  "description": "Express web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejss/template-api-node.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "application",
+    "base"
+  ],
+  "author": "Aaron Sanchez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alejss/template-api-node/issues"
+  },
+  "homepage": "https://github.com/alejss/template-api-node#readme"
+}
